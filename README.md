@@ -6,4 +6,4 @@ Currently looking for data source.
 May start with this https://labs.semanticscholar.org/corpus/.
 
 
-Started by adapting a tutorial scraping Time magazine covers using Scrapy and examining the decadal average images . I then perform a k-means cluster analysis to see if similar covers clusters correspond to the decadal averages.
+Started by adapting a tutorial scraping Time magazine covers using Scrapy and examining the decadal average images [Analyze_covers](     FutureFigures/Analyze_covers.ipynb). I then perform a k-means cluster analysis to see if similar covers clusters correspond to the decadal averages.
