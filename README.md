@@ -8,5 +8,6 @@ Then continued to examine the decadal average images using this tutorial (https:
 Finally I applied a couple simple unsupervised clustering tools (k-means and gaussian mixture models) to see if similar covers clusters could be extracted and if they related to the decadal average image trends.
 
 Scraper code here:
+
 Averaging and clustering code here: [Analyze_covers](    Analyze_covers.ipynb). 
 
